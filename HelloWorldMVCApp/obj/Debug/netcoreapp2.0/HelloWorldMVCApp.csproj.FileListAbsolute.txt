@@ -1,0 +1,11 @@
+C:\Users\Amber\source\repos\HelloWorldMVCApp\HelloWorldMVCApp\bin\Debug\netcoreapp2.0\HelloWorldMVCApp.deps.json
+C:\Users\Amber\source\repos\HelloWorldMVCApp\HelloWorldMVCApp\bin\Debug\netcoreapp2.0\HelloWorldMVCApp.runtimeconfig.json
+C:\Users\Amber\source\repos\HelloWorldMVCApp\HelloWorldMVCApp\bin\Debug\netcoreapp2.0\HelloWorldMVCApp.runtimeconfig.dev.json
+C:\Users\Amber\source\repos\HelloWorldMVCApp\HelloWorldMVCApp\bin\Debug\netcoreapp2.0\HelloWorldMVCApp.dll
+C:\Users\Amber\source\repos\HelloWorldMVCApp\HelloWorldMVCApp\bin\Debug\netcoreapp2.0\HelloWorldMVCApp.pdb
+C:\Users\Amber\source\repos\HelloWorldMVCApp\HelloWorldMVCApp\obj\Debug\netcoreapp2.0\HelloWorldMVCApp.csproj.CoreCompileInputs.cache
+C:\Users\Amber\source\repos\HelloWorldMVCApp\HelloWorldMVCApp\obj\Debug\netcoreapp2.0\HelloWorldMVCApp.AssemblyInfoInputs.cache
+C:\Users\Amber\source\repos\HelloWorldMVCApp\HelloWorldMVCApp\obj\Debug\netcoreapp2.0\HelloWorldMVCApp.AssemblyInfo.cs
+C:\Users\Amber\source\repos\HelloWorldMVCApp\HelloWorldMVCApp\obj\Debug\netcoreapp2.0\HelloWorldMVCApp.dll
+C:\Users\Amber\source\repos\HelloWorldMVCApp\HelloWorldMVCApp\obj\Debug\netcoreapp2.0\HelloWorldMVCApp.pdb
+C:\Users\Amber\source\repos\HelloWorldMVCApp\HelloWorldMVCApp\obj\Debug\netcoreapp2.0\HelloWorldMVCApp.csprojResolveAssemblyReference.cache
